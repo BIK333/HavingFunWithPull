@@ -10,3 +10,5 @@ This class is great
 I love 8am
 
 HI
+
+This is my favorite practice exercise so far!
